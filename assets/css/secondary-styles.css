@@ -17,11 +17,16 @@
 
 .secondary-content {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     color: #024e76;
 }
 
 .secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0;
+}
+
+.secondary-content p {
     font-size: 16px;
     line-height: 1.5;
     margin: auto;
